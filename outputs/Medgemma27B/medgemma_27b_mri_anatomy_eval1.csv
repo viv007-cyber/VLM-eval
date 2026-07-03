@@ -1,0 +1,207 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+34.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a cross-sectional view of the **hip** joint. The presence of the femoral head articulating with the acetabulum is characteristic of the hip,0.0
+34.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The presence of articular cartilage, bone structures, and potentially",0.0
+34.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the hip joint, specifically the femoral head articulating with the acetabulum. The presence of the femoral",0.0
+21.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, and tibia are characteristic",0.0
+21.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a knee joint, which is located in the lower extremity.",0.0
+21.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained via MRI. Key features visible include the femoral condyles, tibial plateau",0.0
+26.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of a joint, specifically the **knee**.
+
+Here's why:
+*   The shape of the bones (",0.0
+26.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The shape and structure visible suggest it is the **knee",0.0
+26.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, showing the",0.0
+14.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, and tibia are characteristic",0.0
+14.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,The image shows a cross-sectional view of a knee joint. The knee is a joint in the lower extremity.,0.0
+14.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, showing the",0.0
+9.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, tibia, and meniscus",0.0
+9.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint. Based on the structures visible, it appears to be the **knee joint**.
+
+The knee joint is",0.0
+9.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with its medullary cavity, cortical bone, and",0.0
+28.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, and tibia are characteristic",0.0
+28.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via MRI. The shape and structure suggest it is the **knee joint**.
+
+The knee",0.0
+28.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with a distinct medullary cavity and cortical bone.",0.0
+7.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, tibia, and meniscus",0.0
+7.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,The image shows a cross-section of the knee joint. The knee joint is located in the lower extremity.,0.0
+7.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically highlighting the meniscus. The structures visible, such as the articular cartilage, meniscus",0.0
+15.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femoral condyles, and tibial",0.0
+15.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The shape and structure visible suggest it is the **knee",0.0
+15.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with its medullary cavity and surrounding cortex. The",0.0
+16.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of a joint, specifically the **knee**.
+
+Here's why:
+*   The shape of the bones (",0.0
+16.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint. Based on the shape and structure, it appears to be the **knee joint**. The knee joint is",0.0
+16.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, given the",0.0
+12.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the femur, tibia, patella, and articular cartilage are characteristic features",0.0
+12.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The presence of articular cartilage, bone structures, and potentially",0.0
+12.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+24.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femoral condyles, and tibial",0.0
+24.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The key features visible are:
+
+1.  **",0.0
+24.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia. The distinct",0.0
+29.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, and tibia are characteristic",0.0
+29.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The shape and structure visible suggest a large, complex joint",0.0
+29.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+13.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a Magnetic Resonance Imaging (MRI) scan of the **[A] Knee**. The distinct structures visible, such as the meniscus, ligaments (like",0.0
+13.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The presence of articular cartilage, bone structures, and potentially",0.0
+13.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+5.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, tibia, and meniscus",0.0
+5.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,The image shows a cross-section of the knee joint. The knee joint is located in the lower extremity.,0.0
+5.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-section of the knee joint, specifically the distal femur and proximal tibia. Key structures visible include the femoral condyles,",0.0
+25.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, and tibia are characteristic",0.0
+25.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via MRI. The presence of articular cartilage, meniscus (the C-shaped structure), and",0.0
+25.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, showing the",0.0
+0007.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a magnetic resonance imaging (MRI) scan of the **knee**. The distinct structures visible, such as the femur, tibia, patella, and",0.0
+0007.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**.
+
+Specifically, it appears to be a sagittal view of the **knee joint**. The presence of the pat",0.0
+0007.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the tibial plateau and femoral condyles. The structures visible, such as the",0.0
+0001.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a magnetic resonance image (MRI) of the **[A] Knee**. The structures visible, such as the femur, tibia, patella,",0.0
+0001.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**.
+
+Specifically, it appears to be a sagittal view of the **knee joint**. We can see structures like",0.0
+0001.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the thigh, likely from an MRI or CT scan. The structures visible include muscle tissue (like the",0.0
+0037.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of a joint, specifically the glenoid fossa (the socket part of the shoulder joint) and the head of the hum",0.0
+0037.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a joint in the **upper extremity**.
+
+Specifically, the shape and structure resemble the **proximal interphalange",0.0
+0037.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a structure that appears to be a bone, likely a long bone, with a distinct medullary cavity",0.0
+0034.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a close-up view of the **knee** joint. The structures visible, such as the patella (kneecap) and the surrounding",0.0
+0034.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be the **metatarsophalangeal (MTP) joint**, which",0.0
+0034.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a close-up of a foot, specifically the area around the big toe joint. The presence of the toenail, skin texture",0.0
+0018.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a radiograph (X-ray) of the **knee**. The distinct features like the femoral condyles, tibial plateau, and patella are",0.0
+0018.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a radiograph (X-ray) of a joint. Based on the appearance of the bones and the joint structure, it depicts the **knee",0.0
+0018.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the knee joint. The presence of the patella (kneecap) and the",0.0
+0026.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the patella (kneecap), femur, and tibia are characteristic",0.0
+0026.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The shape and structure visible suggest a large, spherical joint",0.0
+0026.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with a large, deep depression in the center.",0.0
+0001.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a cross-sectional view of the **hip** joint. The presence of the femoral head articulating with the acetabulum is characteristic of the hip,0.0
+0001.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint. Based on the structures visible, it appears to be the **knee joint**.
+
+The knee joint is",0.0
+0001.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the hip joint, specifically the femoral head articulating with the acetabulum. The structures visible, such",0.0
+0034.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee**. The presence of the patella (kneecap), femur, and tibia are clear indicators of",0.0
+0034.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a cross-sectional view of a joint, likely obtained via imaging like MRI or CT. The presence of articular cartilage, bone structures, and potentially",0.0
+0034.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the thigh, specifically the muscles and bone structure (femur). The shoulder joint involves the humerus",0.0
+0021.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a close-up view of the **knee** joint. The structures visible, such as the patella (kneecap), femur, tibia",0.0
+0021.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,The image shows the knee joint. The knee joint is located in the lower extremity.,0.0
+0021.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained via MRI. Key features visible include the femoral condyles, tibial plateau",0.0
+0009.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a radiograph (X-ray) of the **knee**.
+
+Here's why:
+*   The image clearly depicts the patella",0.0
+0009.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be the knee joint.",0.0
+0009.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained via MRI. Key features visible include the articular cartilage, meniscus, tibial",0.0
+0029.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a black and white photograph of a person's lower leg, specifically the area around the knee joint. The knee cap (patella) and",0.0
+0029.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**.
+
+Specifically, it appears to be a sagittal view of the **knee joint**. The presence of the pat",0.0
+0029.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a long bone, likely the femur or tibia, with its surrounding soft tissues. The distinct features visible are the bone shaft, peri",0.0
+0001.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"Based on the image, the body part shown is the **[A] Knee**. The image displays a radiographic view of the knee joint, including the femur,",0.0
+0001.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**.
+
+Specifically, it appears to be an X-ray of the knee joint. The presence of the femur",0.0
+0001.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a long bone, likely the femur or tibia, with a complex fracture pattern. The shoulder joint involves the humerus, scapula",0.0
+0028.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a black and white photograph of a lower leg, specifically the area around the knee joint. The knee cap (patella) and the surrounding tendons",0.0
+0028.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be the knee joint. The presence of the patella (kneecap)",0.0
+0028.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a long bone, likely the femur or tibia, with a metallic implant (possibly a nail or rod) inserted into the medullary",0.0
+0010.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a magnetic resonance imaging (MRI) scan of the **knee**. The distinct structures visible, such as the femur, tibia, patella, and",0.0
+0010.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,The image shows a magnetic resonance imaging (MRI) scan of the knee joint. The knee joint is located in the lower extremity.,0.0
+0010.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a magnetic resonance imaging (MRI) scan of the knee joint. The structures visible, such as the menisci, ligaments (like",0.0
+0005.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a magnetic resonance imaging (MRI) scan of the **knee**. The distinct structures visible, such as the patella (kneecap), femur",0.0
+0005.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be the knee joint. The presence of the patella (kneecap)",0.0
+0005.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the patellofemoral joint (where the kneecap articulates",0.0
+0013.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint. The presence of the tibial plateau, femoral condyles, and patella (kneec",0.0
+0013.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**.
+
+Specifically, it appears to be a sagittal view of the **knee joint**. The presence of the pat",0.0
+0013.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely from an MRI scan. The structures visible, such as the meniscus, articular",0.0
+0026.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a close-up view of the **knee** joint, specifically the patella (kneecap) and surrounding structures.",0.0
+0026.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be the knee joint. The presence of the patella (kneecap)",0.0
+0026.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows the knee joint, specifically the patellofemoral joint (where the kneecap meets the femur). The patella (",0.0
+0025.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a close-up view of the **knee** joint, specifically the patella (kneecap) and surrounding structures.",0.0
+0025.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be the knee joint, likely a sagittal view on an MRI. The structures visible",0.0
+0025.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows the knee joint, specifically the patellofemoral joint (where the kneecap meets the femur). The presence of the",0.0
+0012.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a cross-sectional view of the **knee** joint, likely obtained via MRI. The presence of the femur, tibia, patella, and",0.0
+0012.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**. Specifically, it appears to be a sagittal view of the knee joint, showing the femur, tibia, and",0.0
+0012.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+0002.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows a magnetic resonance image (MRI) of the **[A] Knee**. The structures visible, such as the femur, tibia, patella,",0.0
+0002.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"The image shows a joint in the **lower extremity**.
+
+Specifically, it appears to be a sagittal view of the **knee joint**. We can see structures like",0.0
+0002.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the lower leg, specifically the tibia and fibula bones, along with surrounding soft tissues. The shoulder",0.0

@@ -1,0 +1,8 @@
+{
+  "domain": "modality_eval1",
+  "prompts": {
+    "m1": "Does this image come from an MRI scan? (Yes/No)",
+    "m2": "Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?",
+    "m3": "Is this a plain radiograph? (Yes/No)"
+  }
+}

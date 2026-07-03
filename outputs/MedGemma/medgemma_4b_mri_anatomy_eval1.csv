@@ -1,0 +1,190 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+34.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+34.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**. The presence of the patella (kneecap) and",0.0
+34.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the **knee joint**. The presence of the patella (kneecap) and",0.0
+21.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+21.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+21.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The bony structures and overall shape are characteristic of the knee.",0.0
+26.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+26.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+26.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+14.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+14.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+14.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The bony structures visible are consistent with the distal femur and proximal tibia.",0.0
+9.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+9.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**. The characteristic shape and structures visible (like the patella and",0.0
+9.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The bony structures and soft tissues visible are characteristic of the knee.",0.0
+28.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+28.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+28.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+7.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+7.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**. The characteristic shape and structures visible (like the patella and",0.0
+7.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+15.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+15.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+15.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+16.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+16.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+16.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+12.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+12.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+12.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+24.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+24.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+24.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the surrounding soft tissues (",0.0
+29.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+29.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+29.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The shape and structure of the bone and surrounding tissues are characteristic of the knee.",0.0
+13.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+13.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+13.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+5.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+5.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**.",0.0
+5.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+25.png,MRI,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+25.png,MRI,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+25.png,MRI,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0007.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows the knee.
+So the answer is [A].",0.0
+0007.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**. The presence of the patella (kneecap) and the surrounding structures (femur",0.0
+0007.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an MRI of the knee joint.",0.0
+0001.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+0001.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**. The presence of the patella (kneecap) and",0.0
+0001.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the thigh region, likely the quadriceps muscle. The image shows the muscle tissue and",0.0
+0037.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"Based on the image, the body part shown is the **[B] Hip**. The shape and structure of the bone visible in the image are characteristic of the",0.0
+0037.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a joint in the **upper extremity**. The shape and structure resemble a shoulder joint.",0.0
+0037.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Based on the image, it appears to be a reflection of a rounded object, possibly a joint. The shape and the way the light is reflected suggest it could",0.0
+0034.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0034.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **foot**. The shape and structure are characteristic of the foot.",0.0
+0034.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Based on the image, it appears to be a view of the **shoulder joint**. The shape and structure of the bone (likely the humerus) and the",0.0
+0018.png,MRI,Knee,meniscal_tears,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0018.png,MRI,Knee,meniscal_tears,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**. The characteristic shape and structures visible (like the patella and the surrounding bone) are typical",0.0
+0018.png,MRI,Knee,meniscal_tears,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+0026.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0026.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**. The characteristic shape and structures visible are consistent with the knee.",0.0
+0026.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the surrounding soft tissues are",0.0
+0001.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+0001.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**.",0.0
+0001.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0034.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0034.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**. The characteristic shape and structures visible are consistent with the knee.",0.0
+0034.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+0021.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"The image shows the knee.
+So the answer is [A].",0.0
+0021.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.",0.0
+0021.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint. The presence of the patella (kneecap) and the surrounding structures (like the femur",0.0
+0009.png,MRI,Knee,Axial,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+0009.png,MRI,Knee,Axial,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.",0.0
+0009.png,MRI,Knee,Axial,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the surrounding soft tissues are",0.0
+0029.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0029.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **shin area** of the leg. The image shows the tibia (shin bone",0.0
+0029.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the lower leg, specifically the calf region. The image shows the muscles and tendons of",0.0
+0001.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,"Based on the image, the body part shown is the **[A] Knee**.",0.0
+0001.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **distal humerus** (upper arm bone) and the **brach",0.0
+0001.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the upper arm, specifically the biceps muscle. The image shows the muscle tissue and surrounding",0.0
+0028.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+0028.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a joint in the **lower extremity**, specifically the **knee**. The presence of the patella (kneecap",0.0
+0028.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the **knee joint**. The presence of the patella (kneecap) and",0.0
+0010.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0010.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+0010.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint. The prominent bony structures and the overall shape of the joint are characteristic of the knee.",0.0
+0005.png,MRI,Knee,Sagittal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0005.png,MRI,Knee,Sagittal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The rounded structure in the center",0.0
+0005.png,MRI,Knee,Sagittal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint. The prominent rounded structure is the knee joint, and the surrounding tissues are consistent with the knee.",0.0
+0013.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0013.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**.
+
+Here's why:
+
+*   **Shape:** The image shows the characteristic shape",0.0
+0013.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an MRI of the knee joint.",0.0
+0026.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0026.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**. The characteristic shape and bony structures are consistent with the knee.",0.0
+0026.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0025.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+0025.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **lower extremity**, specifically the **knee joint**.",0.0
+0025.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0012.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows a **[A] Knee**.,0.0
+0012.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a **knee joint**. The presence of the patella (kneecap) and the surrounding bony structures are characteristic",0.0
+0012.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the",0.0
+0002.png,MRI,Knee,Coronal,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,The image shows the **[A] Knee**.,0.0
+0002.png,MRI,Knee,Coronal,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,"Based on the image, it appears to show a joint in the **upper extremity**. The anatomy visible, including the humerus, radius, ulna, and",0.0
+0002.png,MRI,Knee,Coronal,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0

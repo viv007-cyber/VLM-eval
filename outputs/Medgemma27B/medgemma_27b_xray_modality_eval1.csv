@@ -1,0 +1,445 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes.,0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph of the shoulder joint. MRI scans produce images based on magnetic fields and radio",0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray. Radiographs use X-rays to create images based on the differential absorption of radiation by different tissues",0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiograph, but it is not a plain radiograph. Plain radiographs use X-rays to create images based on the differential",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows a radiograph (X-ray) of the shoulder joint, specifically focusing on the glenohumeral joint and the proximal humerus",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder. The presence of a metallic",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray image. This is evident from the grayscale appearance, the visualization of bone structures (like the humerus",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a radiograph (X-ray) of the shoulder, indicated by the presence of a radiolucent (dark) area where",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the humerus (upper arm bone) articulating with the scapula (shoulder blade), which forms the shoulder joint.",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder. X-rays use electromagnetic",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray. Radiographs use X-rays to create images based on the differential absorption of radiation by different tissues",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray) of the shoulder. It shows bone structures (like the humerus, scapula",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the clavicle (collarbone) and the upper part of the humerus (upper arm bone), which form the shoulder joint. The",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a chest X-ray (radiograph). The bone structures (ribs, clavicle",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a Radiograph, specifically an X-ray. This is evident from the grayscale appearance, the visualization of bones (like the clavicle and ribs",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a black and white representation of bones and soft tissues, which is characteristic of a plain radiograph (X-ray).",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes.,0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image is a radiograph (X-ray), specifically a chest X-ray, showing the shoulder joint and upper chest. MRI scans produce",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a Radiograph (X-ray).
+
+Here's why:
+
+*   **Appearance:** The image displays bones (like the humerus",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a standard X-ray image, which is a type of plain radiograph. It depicts the bones of the shoulder and upper arm in",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes.,0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder, showing a shoulder replacement prosthesis",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray image. This is evident from the grayscale appearance, the visualization of bone structures (like the humerus",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiopaque object (the intramedullary nail) within the bone (femur), but the surrounding soft tissues and bones are",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the head of the humerus articulating with the glenoid fossa of the scapula, which are the primary components of the shoulder joint.",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a radiograph (X-ray) of the shoulder, not an MRI scan. MRI scans produce images with different characteristics, typically showing",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a black and white representation of anatomical structures, with varying shades of gray indicating different tissue densities. This is characteristic of **[A] Radiograph",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, the image appears to be a plain radiograph (X-ray). It shows a grayscale image of bones and soft tissues, characteristic of radiography.",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the **hip joint**. The presence of the femoral head and acetabulum are characteristic",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph. The high contrast between bone (white) and soft tissue/air (",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The presence of bones (like the femur, tibia, fibula, and patella) appearing white against",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, the image appears to be a plain radiograph (X-ray). It shows a grayscale image of bones and soft tissues, characteristic of radiography. The",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic shape of the femoral head and acetabulum are visible",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the hip and femur. The bone structures",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the femur. The bone structure is clearly visible in shades of gray, which is characteristic of X-",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes. The image shows a radiograph (X-ray) of a femur. It is a plain radiograph because it uses X-rays to create a,0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the wrist and forearm. The bones visible are the radius, ulna, and parts",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph of a limb (likely a leg or arm). The bone structures are visible",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, also known as an X-ray. This is evident from the grayscale appearance and the way bones (like the humerus and",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a grayscale representation of bones and soft tissues, typical of a plain radiograph (X-ray).",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic shape of the femoral head and acetabulum are visible",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the pelvis and proximal femur. The bone",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The image is grayscale, shows bone structures clearly, and has the characteristic appearance of an X-ray image",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiograph, but it is not a plain radiograph. It is an X-ray image, but the contrast and density",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic shape of the femoral head and acetabulum are visible",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the hip and femur. X-rays",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bone structures are visible in shades of gray, with denser areas appearing whiter and less dense areas appearing",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes. The image shows a radiograph (X-ray) of the hip and femur. It is a plain radiograph because it uses X-rays to,0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The presence of the femoral head, acetabulum, and surrounding",0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the pelvis and proximal femur. The bone",0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a radiograph (X-ray). Radiographs use X-rays to create images based on the differential absorption of radiation by different tissues. The,0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a grayscale representation of bones and soft tissues, which is characteristic of a plain radiograph (X-ray).",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The presence of the femoral head, acetabulum, and surrounding",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the pelvis and proximal femur. The bone",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bone structures (femur, tibia, fibula, patella) are clearly visible in shades of",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray) of the femur. It shows the bone structure in shades of gray, which is",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joints. The presence of the patella (kneecap) and the overall structure of the",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the knees. X-rays use electromagnetic radiation, while MRIs use magnetic fields and radio waves. The",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the knees. X-ray images use radiation to create images based on the density of tissues.,0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the knees, which is characteristic of a plain radiograph.",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI (Magnetic Resonance Imaging) uses",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. X-ray images use radiation to create images based on the density of,0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint, specifically the tibiofemoral joint. The bones visible are the femur (upper leg",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the knees. X-rays use electromagnetic radiation, while MRIs use magnetic fields and radio waves. The",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a black and white X-ray image of the knees. X-ray images are also known as radiographs.
+
+Therefore, the correct answer is",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the knees. X-rays use electromagnetic radiation, while MRIs use magnetic fields and radio waves. The",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. This type of imaging uses X-rays to create images of the internal,0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the lower leg, specifically the tibia and fibula bones. The knee joint is visible at the top of",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI uses magnetic fields and radio waves",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the lower legs and feet. The bones are visible in white, and the surrounding soft tissues are visible",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a standard X-ray view of the lower legs and feet, which is a type of plain radiograph. It uses X-",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI (Magnetic Resonance Imaging) uses",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and knees. X-ray images use radiation to create images based on the density of,0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the knees. X-rays use electromagnetic radiation, while MRIs use magnetic fields and radio waves. The",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the knees. X-ray images use radiation to create images based on the density of tissues.,0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a standard X-ray view of the knees, which is a type of plain radiograph. It uses X-rays to create",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a chest X-ray, specifically focusing on the ribs, clavicle, and scapula. The shoulder joint itself (the articulation",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a chest X-ray. The presence of ribs, clavicles, and the overall grayscale",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a grayscale depiction of soft tissues and bones, with good contrast between different tissue types. The structures visible, such as the ribs, scapula,",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a grayscale representation of internal structures, likely soft tissues and bones, with varying densities appearing in shades of gray. This is characteristic of",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the humerus, scapula, and clavicle, which are the main bones forming the shoulder joint.",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder. The bone structures (h",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The image is grayscale, shows bone structures clearly, and has the characteristic appearance of an X-ray image",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray) of the shoulder joint. It shows the bones (humerus, scapula",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the humerus (upper arm bone) articulating with the scapula (shoulder blade), which forms the shoulder joint.",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder and upper chest. X-",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray. Radiographs use X-rays to create images based on the differential absorption of radiation by different tissues",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a grayscale representation of bones and soft tissues, which is characteristic of a plain radiograph (X-ray).",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes.,0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder. The presence of bone structures",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, also known as an X-ray. This is evident from the use of X-rays to create a 2D image",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a radiograph (X-ray) of the shoulder, characterized by the visualization of bones (humerus, scapula, clav",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a chest X-ray, specifically focusing on the ribs, clavicle, and scapula. The shoulder joint (glenoh",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a chest X-ray, showing the ribs, clavicle, and part of the shoulder",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a Radiograph (X-ray).
+
+Here's why:
+
+*   **Appearance:** The image displays bones (like the clavicle",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray) of the chest. It shows bones (ribs, clavicle, scapula",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes.,0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder, showing a total shoulder replacement",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray image. This is evident from the grayscale appearance, the way bones (like the humerus and scap",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray) of the shoulder, showing the humerus, scapula, and clavicle.",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the humerus (upper arm bone) articulating with the scapula (shoulder blade), which forms the shoulder joint.",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the shoulder. The bone structures (h",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a Radiograph (X-ray).
+
+Here's why:
+
+*   **Appearance:** The image is grayscale, showing bones (white",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray). It shows a grayscale image of bones and soft tissues, characteristic of radiography.",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes. The image shows the clavicle (collarbone), the scapula (shoulder blade), and the humerus (upper arm bone), which are the main",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph of the shoulder joint. MRI scans produce images based on magnetic fields and radio",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a black and white representation of bones and soft tissues, with high contrast between them. This is characteristic of an X-ray image, also known",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a black and white X-ray image, which is characteristic of a plain radiograph.",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes.,0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the shoulder, specifically the humerus and scapula. The presence of bone structures and the radiographic appearance (",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph, specifically an X-ray image. This is evident from the grayscale appearance, the visualization of bones (like the humerus,",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a radiograph (X-ray) of the shoulder joint, displaying bones and potentially some soft tissue structures in shades of gray. It",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a lateral view of the hip joint, specifically with a device inserted into the femoral canal. The presence of the femoral head, neck",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the lower extremity. The presence of bone",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a fluoroscopic image, which is a type of X-ray imaging that provides real-time moving images. Therefore, the type of imaging shown",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, the image appears to be a plain radiograph (X-ray). It shows a view of the lower leg and hip area, with bone structures visible",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic ball-and-socket shape of the hip joint is",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the hip joint. X-rays use electromagnetic radiation, while MRIs use magnetic fields and radio waves.",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bone structures are visible in shades of gray, with denser bone appearing whiter and less dense areas appearing",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes. The image shows a radiograph (X-ray) of the hip and femur. It is a plain radiograph because it uses X-rays to,0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the upper arm and shoulder region, but the focus is on the humerus bone and the surrounding soft tissues",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the right humerus. The presence of",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an X-ray, which is a type of radiograph. Radiographs use X-rays to create images of the inside of the body.",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiolucent (dark) area surrounded by a radiopaque (white) halo, which is characteristic of a **fluor",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic ball-and-socket structure of the hip joint is",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the hip and femur. The bone structures",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bone structures are clearly visible in shades of gray, which is characteristic of X-ray imaging. MRI",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes. The image appears to be a plain radiograph (X-ray) of the hip and femur. It shows bone structures in grayscale without contrast agents.,0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The presence of the femoral head, acetabulum, and surrounding",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the hip and femur. The bone structures",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bone structures are visible in shades of gray, with denser areas appearing whiter and less dense areas appearing",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image appears to be a plain radiograph (X-ray) of the hip and femur. It shows bone structures in shades of gray, which",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic shape of the femoral head and acetabulum are visible",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the pelvis and proximal femur. The bone",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The image is grayscale, shows bone structures clearly, and has the characteristic appearance of an X-ray image",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiograph, but it is not a plain radiograph. It is an X-ray image, but the contrast and density",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the **hip joint**. The presence of the femoral head and acetabulum are characteristic",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph. The high contrast between bone (white) and soft tissue/air (",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The presence of bones (like the femur, tibia, fibula, and patella) appearing white against",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, the image appears to be a plain radiograph (X-ray). It shows a grayscale image of bones and soft tissues, characteristic of radiography. The",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic shape of the femoral head and acetabulum are visible",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image is a radiograph (X-ray), not an MRI scan. MRI scans produce images based on magnetic fields and radio waves, typically",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bone structures are visible in white against a dark background, which is characteristic of X-ray imaging.",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiograph, but it is not a plain radiograph. It is an X-ray image, but it appears to be",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint. The characteristic shape of the femoral head and acetabulum are visible",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph of the pelvis and lower spine. The bone structures are visible in shades of",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The image is grayscale, shows bone structures clearly, and has the characteristic appearance of an X-ray.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a grayscale representation of bones and soft tissues, with varying shades of gray indicating different densities. This is characteristic of an X-ray",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the hip joint, specifically the femur and acetabulum. The presence of the femoral",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the hip and femur. The presence of",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The presence of bone structures (femur, tibia, fibula, knee joint) and the way the",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes. The image shows a radiograph (X-ray) of the hip and femur. The presence of bone structures and the characteristic grayscale appearance confirm it is,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the hip joint, specifically the femoral head articulating with the acetabulum. The presence of the femoral",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a cross-table lateral view of the shoulder. The high contrast, bone detail, and",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the body, likely the shoulder or upper arm, with detailed visualization of soft tissues (muscles, tendons) and",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the body, likely obtained using techniques like CT (Computed Tomography) or MRI (Magnetic Resonance Imaging",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the upper arm and shoulder region, but the focus is on the humerus bone and the surrounding soft tissues",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically an anteroposterior (AP) view of the right humerus. The presence of",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an X-ray, which is a type of radiograph. Radiographs use X-rays to create images of the inside of the body.",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a radiolucent (dark) area surrounded by a radiopaque (white) halo, which is characteristic of a **fluor",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint, specifically the tibiofemoral joint. The bones visible are the femur (upper leg",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI uses magnetic fields and radio waves",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. X-ray images use radiation to create images based on the density of,0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap), the femoral condyles, and",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI uses magnetic fields and radio waves",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. This type of imaging uses X-rays to create images of the internal,0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI (Magnetic Resonance Imaging) uses",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. X-ray images use radiation to create images based on the density of,0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation to create images, while MRIs use strong",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. X-ray images use radiation to create images based on the density of,0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint, specifically the tibiofemoral joint. The bones visible are the femur (upper leg",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image is a black and white X-ray image of the knees. MRI scans produce images with different contrast and characteristics, typically showing soft tissues",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. X-ray images use radiation to create images based on the density of,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the overall structure of the",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the knees. X-rays use electromagnetic radiation, while MRIs use magnetic fields and radio waves. The",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray). The bones are visible in white, and the surrounding soft tissues are visible in shades of gray. The image",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and knees, which is characteristic of a plain radiograph.",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint, specifically the tibiofemoral joint. The bones visible are the femur (upper leg",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image is a radiograph (X-ray) of the knees. MRI scans produce images based on magnetic fields and radio waves, which look",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the knees. X-ray images use radiation to create images based on the density of tissues.,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the knees, which is characteristic of a plain radiograph.",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI uses magnetic fields and radio waves",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. This type of imaging uses X-rays to create images of the internal,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows an X-ray of the knee joint. The presence of the patella (kneecap) and the articulation between the femur",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows an X-ray of the lower legs and feet. X-rays use electromagnetic radiation, while MRI uses magnetic fields and radio waves",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image shows a black and white X-ray image of the lower legs and feet. X-ray images use radiation to create images based on the density of,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes.
+
+The image shows a black and white X-ray image of the lower legs and feet, which is characteristic of a plain radiograph.",0.0

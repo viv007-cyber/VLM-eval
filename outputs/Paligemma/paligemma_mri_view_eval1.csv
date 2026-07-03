@@ -1,0 +1,176 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+34.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0026.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0026.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0026.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0026.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0026.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+0001.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0001.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0001.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0001.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0001.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+0034.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0034.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0034.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0034.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0034.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+0021.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0021.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0021.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0021.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0021.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0009.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0009.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0009.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0009.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0009.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",None,0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse,0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Coronal,0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",axial,0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),yes,0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A,0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),yes,0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[D] Transverse [E] Coronal,0.0

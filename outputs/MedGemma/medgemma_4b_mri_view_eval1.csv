@@ -1,0 +1,508 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+34.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be an **Axial** view.
+
+Here's why:
+
+*   **Axial views** are cross",0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The humerus is positioned in the midline, and the image",0.0
+34.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal plane",0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the overall",0.0
+21.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal view",0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+26.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the overall",0.0
+14.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view.
+
+Here's why:
+
+*   **Coronal plane:** This plane is viewed from",0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The image shows the knee joint with the patella (kne",0.0
+9.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the overall",0.0
+28.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the overall",0.0
+7.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The image shows the knee joint with the patella (kne",0.0
+15.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+16.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view.
+
+Here's why:
+
+*   **Coronal plane:** This plane is viewed from",0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The humerus is seen in a more vertical orientation, and",0.0
+12.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the overall",0.0
+24.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the anterior (",0.0
+29.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view.
+
+Here's why:
+
+*   **Coronal plane:** This plane is viewed from",0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The image shows the knee joint, and the orientation of the",0.0
+13.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal view** of the knee.
+
+Here's why:
+
+*   **Sagittal plane",0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the overall",0.0
+5.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal view",0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+25.png,MRI,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view.
+
+Here's why:
+
+*   **Coronal view:** This plane shows the structures",0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the anterior (",0.0
+0007.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image provided, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows",0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the leg.",0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[C] Sagittal**.
+
+The image shows a side view of the leg, with the long axis of",0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The image shows the anterior (front) and posterior (back",0.0
+0001.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the leg, which is characteristic of a lateral",0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows a",0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),"Based on the image, it appears to be a sagittal view. The image shows a cross-section of the body, with the left and right sides of the",0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+The image shows a cross-sectional view of the body, with the width",0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be taken in an **anteroposterior (AP)** view. The heart silhouette is visible, and the image is",0.0
+0037.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows a side view of the heart, which is characteristic of a lateral",0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),"Based on the image, it appears to be a **sagittal view**. The image shows a cross-section of the body, with the long axis of the",0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+The image shows a cross-sectional view of the foot, with the bones",0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The image shows the distal aspect of the foot, with the",0.0
+0034.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the foot, with the heel and the side",0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal view",0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the femoral",0.0
+0018.png,MRI,Knee,meniscal_tears,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0026.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0026.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0026.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** plane view.
+
+In a coronal plane, the image is viewed from the side, showing the structures from",0.0
+0026.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the anterior (",0.0
+0026.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0001.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image provided, it appears to be a **sagittal view** of the knee.
+
+Here's why:
+
+*   **Sagittal",0.0
+0001.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0001.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **Sagittal** plane view.
+
+Here's why:
+
+*   **Sagittal plane:** This plane divides the body into left",0.0
+0001.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+0001.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the tibia and fibula",0.0
+0034.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be an **Axial** view.
+
+Here's why:
+
+*   **Axial views** are cross",0.0
+0034.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0034.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** plane view.
+
+Here's why:
+
+*   **Coronal plane:** This plane cuts through",0.0
+0034.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+0034.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the leg, which is characteristic of a lateral",0.0
+0021.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image provided, it appears to be a **sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal",0.0
+0021.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0021.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+0021.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+0021.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image provided, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the tibia and fib",0.0
+0009.png,MRI,Knee,Axial,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image provided, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows",0.0
+0009.png,MRI,Knee,Axial,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0009.png,MRI,Knee,Axial,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view.
+
+Here's why:
+
+*   **Coronal view:** This plane shows the structures",0.0
+0009.png,MRI,Knee,Axial,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is visible, and the overall",0.0
+0009.png,MRI,Knee,Axial,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the lower leg.",0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+The image shows a cross-sectional view of the leg, with the bones",0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be taken in an **anteroposterior (AP)** view. The image shows the leg from the front, with",0.0
+0029.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the leg, which is characteristic of a lateral",0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the upper arm.",0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+The image shows a cross-sectional view of the arm, with the bones",0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be taken in a **sagittal** view. The image shows the side of the arm, and the orientation of the",0.0
+0001.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the arm, with the elbow joint visible.",0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be taken in an **anteroposterior (AP)** view. The image shows the bones of the forearm and elbow",0.0
+0028.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the knee joint, with the patella (",0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal plane",0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the **[B] Coronal** plane is visible.
+
+The coronal plane shows the side view of the knee, revealing the structures",0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be a **sagittal** view of the knee. The image shows the sagittal plane, which is a side view of",0.0
+0010.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view of the knee.
+
+Here's why:
+
+*   **Sagittal view",0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image is a **[B] Coronal** view of the knee.
+
+Here's why:
+
+*   **Coronal view:** This plane",0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view of the knee. The patella is centered, and the femoral",0.0
+0005.png,MRI,Knee,Sagittal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be an **Axial** view.
+
+Here's why:
+
+*   **Axial views** are cross",0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the anterior (",0.0
+0013.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+The image shows a cross-sectional view of the knee, with the bones",0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the anterior (",0.0
+0026.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[C] Sagittal**.
+
+The image shows a side view of the knee joint, with the tibia and",0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the front (",0.0
+0025.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The knee joint is shown in a way that the anterior (",0.0
+0012.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the knee joint from the side, with the patella (kne",0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","Based on the image, it appears to be a **Sagittal** view.
+
+Here's why:
+
+*   **Sagittal view** shows the",0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m2,Is this a sagittal view? (Yes/No),"Yes, this appears to be a sagittal view of the knee.",0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"Based on the image, the plane visible is **[B] Coronal**.
+
+Here's why:
+
+*   **Coronal plane:** This plane",0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),"Based on the image, it appears to be an **anteroposterior (AP)** view. The image shows the front and back of the leg, which",0.0
+0002.png,MRI,Knee,Coronal,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"Based on the image, the anatomical view is **[B] Lateral**.
+
+The image shows the side view of the leg, which is characteristic of a lateral",0.0

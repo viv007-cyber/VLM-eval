@@ -1,0 +1,12 @@
+{
+  "domain": "pathology_eval1",
+  "prompts": {
+    "m1": "Is this osteoarthritis? (Yes/No)",
+    "m2": "Identify the pathology: [A] Fracture [B] Normal",
+    "m3": "Determine whether the imaging shows occurrences of meniscal tears? (Yes/No)",
+    "m4": "What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?",
+    "m5": "Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present",
+    "m6": "Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",
+    "m7": "Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No"
+  }
+}

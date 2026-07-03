@@ -1,0 +1,879 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it is difficult to definitively diagnose osteoarthritis without more information and a comparison to previous images. However, there are some findings that could be",0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard chest X-ray. There are no obvious fractures or",0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine if there are meniscal tears. The image shows a chest X-ray, which is not the",0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the provided image, the most likely abnormality is **(C) No abnormality**.
+
+The image shows a standard chest X-ray. There are no",0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the clav",0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be normal. Therefore, the answer is **B) No**.",0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that the patient has a prosthetic shoulder replacement. The presence of a prosthetic joint suggests a history of shoulder arthritis or other shoulder joint",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a right shoulder with a prosthetic joint. There is a clear fracture line",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided chest X-ray image, it is not possible to determine the presence of meniscal tears. Meniscal tears are internal structures within the knee",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most prominent abnormality is **[B] Osteoarthritis**.
+
+The shoulder joint shows signs of osteoarthritis, including joint space narrowing and possible",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the articulation joint space appears to be significantly reduced or narrowed. The presence of a prosthetic joint in the shoulder suggests a previous injury or condition",0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact and without any obvious structural distortion, blunting, or displaced fragments.
+
+Therefore, the answer is",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing in the shoulder joint.
+
+However, it",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard chest X-ray. There are no obvious fractures or other",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image is a single view of the shoulder, and while it",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it is difficult to definitively diagnose osteoarthritis without more information and a full clinical evaluation. However, there are some features that could be suggestive of",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a fracture of the right clavicle (collarbone).",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a chest X-ray, and meniscal tears",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard chest X-ray. There are no obvious",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the clav",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus is not clearly visible. Therefore, I cannot evaluate its morphology for structural distortion, blunting, or a displaced fragment.",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis in the shoulder joint. The joint space appears narrowed, and there may be some osteophyte",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard chest X-ray. There are no obvious fractures, dislocations",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a chest X-ray, which is not the",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the proximal",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus is not clearly visible. Therefore, I cannot evaluate its morphology for structural distortion, blunting, or a displaced fragment.",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that the patient has undergone a shoulder replacement surgery. The presence of a prosthetic device in the shoulder joint is a clear indication of",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a prosthetic shoulder joint, indicating a previous fracture and subsequent surgical intervention.",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a shoulder X-ray with a prosthetic joint.",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most prominent abnormality is **[B] Osteoarthritis**.
+
+The shoulder joint shows signs of osteoarthritis, including:
+
+*   **",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be significantly reduced or narrowed. The presence of a prosthetic joint in the shoulder suggests a previous injury or condition that",0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact and without any obvious structural distortion, blunting, or displaced fragments.
+
+Therefore, the answer is",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it is difficult to definitively diagnose osteoarthritis. However, there are some findings that could be suggestive:
+
+*   **Joint space narrowing",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard shoulder X-ray. There are no obvious fractures or other",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a shoulder X-ray, and while it can",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely answer is **(C) No abnormality**.
+
+The image shows a standard shoulder X-ray. There are no obvious",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the distal",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The image shows a hip joint, and there are signs of joint space narrowing, which is a",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear break in the bone, likely the femur, with displacement of",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image quality is not ideal, and the structures are not clearly",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image appears to be a cross-table lateral view of a hip",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction or narrowing of the joint space.
+So the answer is [B] No.",0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and osteophyte formation (bone spurs) visible",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of the right hip",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a lateral view of the hip and femur, but",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the distal",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a lateral view of the hip, and the femoral head and neck",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The image shows a hip joint. There are signs of joint space narrowing, which is a characteristic",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear break in the bone, likely the femur, with displacement of",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image quality is not ideal, and the structures are not clearly",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a radiograph of a joint, likely the hip or",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction or narrowing of the joint space.
+So the answer is [B] No.",0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it is difficult to definitively diagnose osteoarthritis without more information and a comparison to previous images. However, there are some features that could suggest",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of a hip",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image is a single view of the hip, and while it",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the femur",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a lateral view of the hip, and while the femoral head and",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is evidence of osteoarthritis. The joint space appears narrowed, and there are some osteophytes (bone spurs) visible.",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear fracture line in the proximal femur, likely a femoral neck fracture",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image quality is not ideal, and the structures of the knee",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the femur",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space. The joint space appears relatively normal.
+So the answer is [B]",0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the answer is",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and possible osteophyte formation (bone spurs)",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear break in the bone, specifically in the femur.",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image is a single view of the hip, and while it",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the bone",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a lateral view of the hip, and while the femoral head and",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing in the hip joint.
+
+Therefore, the",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear fracture line in the proximal femur, specifically in the femoral neck",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image is a lateral view of the hip and knee, and",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the femur",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space visible. The joint space appears relatively normal.
+So the answer is [B",0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the answer is",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there are signs of joint space narrowing and osteophyte formation (bone spurs)",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of both knees",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it is difficult to definitively diagnose osteoarthritis without more information and a radiologist's interpretation. However, there are some features that could suggest",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of the bilateral",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there are signs of joint space narrowing and osteophyte formation (bone spurs)",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of both knees",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a standard anteroposterior (AP) view",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there are signs of joint space narrowing and osteophyte formation (bone spurs)",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of both knees",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that the patient has undergone a surgical procedure on the right leg, indicated by the presence of hardware (likely a plate and screws",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a fracture in the right leg, specifically in the tibia. The presence",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[A] Fracture**.
+
+The presence of a metal plate and screws in the right leg indicates a previous",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space. The joint space appears relatively normal.",0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there may be some signs of osteoarthritis.
+
+Here's why:
+
+*   **Joint space narrowing:** The space",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of the bilateral",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a standard anteroposterior (AP) view",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard anteroposterior (AP) view of",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space. The joint space appears relatively normal.
+So the answer is B.",0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there are signs of joint space narrowing and osteophyte formation (bone spurs)",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of both knees",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it is difficult to definitively diagnose osteoarthritis. However, I can see some features that might be suggestive of it.
+
+Here's",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a chest X-ray. There are no obvious fractures or other",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine if there are meniscal tears. The image is a chest X-ray, and meniscal tears",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the provided image, the most likely answer is **(C) No abnormality**.
+
+The image shows a chest X-ray. There are no obvious",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the clav",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **[B",0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it is difficult to definitively diagnose osteoarthritis without more information and a comparison to previous images. However, there are some features that could suggest it",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of a left shoulder",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of a meniscal tear. The image shows a lateral view of the left shoulder. While",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **(C) No abnormality**.
+
+The image shows a standard shoulder X-ray. There are no obvious",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the distal",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it is difficult to definitively diagnose osteoarthritis. However, there are some findings that could be suggestive:
+
+*   **Joint space narrowing",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard chest X-ray. There are no obvious fractures,",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine if there are meniscal tears. A standard chest X-ray does not visualize the knee joint or",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the provided image, the most likely answer is **(C) No abnormality**.
+
+The image shows a standard chest X-ray. There are no",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the clav",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be normal. Therefore, the answer is **[B] No**.",0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view of the shoulder, and the meniscus is not clearly",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that the patient has hardware present in the left shoulder, likely from a previous surgery. The presence of hardware suggests a history of",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a fracture in the left shoulder, specifically in the humerus. The",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a left shoulder X-ray. Meniscal tears",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the abnormality present is **[A] Fracture**.
+
+There is a visible plate and screws in the left shoulder, indicating a prior fracture",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction in the joint space in the shoulder joint. The humeral head appears to be displaced and there is a visible plate",0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing in the shoulder joint.
+
+Therefore, the",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a fracture of the right humerus, specifically in the proximal humerus",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a shoulder X-ray, and while it can",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard right shoulder X-ray. There are no",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the proximal",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **[B",0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, the presence of a prosthetic shoulder joint suggests that the patient has undergone a shoulder replacement surgery. This is a common treatment for severe osteoarthritis of",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a shoulder X-ray with a metallic implant, likely a prosthesis,",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a shoulder X-ray with a prosthetic joint.",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+The presence of a prosthetic shoulder joint (implied by the metallic structure",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be significantly reduced or narrowed. The presence of a prosthetic joint in the shoulder joint is a clear indication of a",0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact and without any obvious structural distortion, blunting, or displaced fragments.
+
+Therefore, the answer is",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. The joint space appears narrowed, and there may be some osteophyte formation (bone spurs",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard chest X-ray. There are no obvious fractures or other",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a shoulder X-ray, and while it can",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it is difficult to definitively diagnose osteoarthritis without more information and a comparison to previous images. However, there are some findings that could be suggestive",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard chest X-ray. There are no obvious fractures or",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a chest X-ray, which is not the",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard chest X-ray. There are no obvious",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the distal",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view, and the meniscus is not clearly visualized.",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that the patient has a prosthetic shoulder replacement. The presence of the prosthetic device suggests that the original shoulder joint was severely damaged,",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the most likely pathology is **[A] Fracture**.
+
+The image shows a shoulder X-ray with a prosthetic shoulder joint. There",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image shows a chest X-ray, and meniscal tears",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most prominent abnormality is **[B] Osteoarthritis**.
+
+The shoulder joint shows signs of osteoarthritis, including joint space narrowing and possible",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be significantly reduced or narrowed. The shoulder joint, specifically the glenohumeral joint, shows a clear indication",0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus is not clearly visible. The image is a chest X-ray, and the meniscus is a structure within the knee joint",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The presence of a prosthetic hip replacement (hip prosthesis) and the overall appearance of the bone structure",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a right femur with a surgical implant (likely a prosthesis) and hardware",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a hip replacement and a prosthesis in the femur.",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most prominent abnormality is **[A] Fracture**.
+
+The image shows a significant fracture of the right femur, with a visible plate",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[C] Spiral**.
+
+The fracture line is curved and appears to be spiraling around the femur",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction in the joint space. The prosthetic joint is visible, and the space between the prosthetic and the bone appears narrowed",0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and possible osteophyte formation (bone spurs",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of a hip",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to definitively determine if there are meniscal tears. A knee X-ray does not visualize the menisci.",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the femur",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a single view of the hip, and the structures of the hip",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The presence of a screw and plate suggests a previous surgical intervention, likely for a fracture. The",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The presence of a screw and plate indicates a previous surgical intervention, likely for a fracture",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image is a lateral X-ray of the knee, and",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[A] Fracture**.
+
+The presence of a screw and plate suggests a previous surgical intervention, likely for",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there appears to be a significant reduction or narrowing of the joint space. The bones are closer together than they should be, suggesting a loss",0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and possible osteophyte formation (bone spurs)",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[B] Normal**.
+
+The image shows a standard hip X-ray. There are no obvious fractures, dislocations",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a lateral view of the right knee. While there",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the femur",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and possible osteophyte formation (bone spurs)",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a fracture of the right hip (femur).",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a lateral view of the hip joint, and while",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the proximal",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the answer is",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided image, it is difficult to definitively diagnose osteoarthritis without more information and a comparison to previous images. However, there are some features that could suggest",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of a hip",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is not possible to determine whether there are meniscal tears. The image is a single view of the hip, and while it",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the femur",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a lateral view of the hip, and while the femoral head and",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The image shows a hip joint, and there are signs of joint space narrowing, which is a",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear break in the bone, likely the femur, with displacement of",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image quality is not ideal, and the structures are not clearly",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image appears to be a cross-table lateral view of a hip",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction or narrowing of the joint space.
+So the answer is [B] No.",0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is evidence of osteoarthritis. The joint space appears narrowed, and there are some osteophytes (bone spurs) visible.",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear fracture line in the proximal femur, specifically in the neck region",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image is a lateral view of the hip, and while it",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the proximal",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space visible. The joint space appears relatively normal.
+So the answer is [B",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, it is difficult to definitively assess the meniscus morphology. The image is a lateral view of the hip, and while the femoral head and",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is evidence of osteoarthritis. The joint space narrowing, particularly in the hip joint, is a common finding in osteoarthritis.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear fracture line in the proximal femur, likely at the neck of",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image is a lateral view of the hip and femur, and",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space Narrowing:**",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction or narrowing of the joint space.
+Therefore, the answer is **[A] Yes**.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, the presence of a surgical implant (likely a screw and rod) within the femur suggests that this is not osteoarthritis. Osteoarthritis typically involves",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a fracture of the femur, with a visible surgical plate and screws in",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided X-ray image, it is difficult to definitively determine the presence of meniscal tears. The image shows a surgical fixation of the femur with",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the abnormality present is **[A] Fracture**.
+
+The image shows a fracture of the femur (thigh bone) with a visible",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[C] Spiral**.
+
+The fracture line is curved and appears to be spiraling around the femur",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be reduced. The presence of hardware (screws and a rod) within the femur and tibia suggests a previous",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided X-ray image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The image shows a hip joint, and there are signs of osteoarthritis, such as:
+
+*",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The image shows a clear break in the bone, likely in the femur, with surrounding",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image quality is not ideal, and the structures are not clearly",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image appears to be a cross-table lateral view of a hip",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there appears to be a significant reduction or narrowing of the joint space. The bones are closer together than they should be, suggesting a loss",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the answer",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears to be **Yes**.
+
+The presence of a screw and plate suggests a previous surgical intervention, likely for a fracture. The",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the image, the pathology is **[A] Fracture**.
+
+The presence of a screw and plate indicates a previous surgical intervention, likely for a fracture",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image is a lateral X-ray of the knee, and",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[A] Fracture**.
+
+The presence of a screw and plate suggests a previous surgical intervention, likely for",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is relatively straight and runs across the bone.",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there appears to be a significant reduction or narrowing of the joint space. The bones are closer together than they should be, suggesting a loss",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there may be some signs of osteoarthritis.
+
+Here's why:
+
+*   **Joint space narrowing:** The space",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of both knees",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a standard anteroposterior (AP) view",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely answer is **(C) No abnormality**.
+
+The image shows a standard anteroposterior (AP) view of",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is evidence of osteoarthritis.
+
+Here's why:
+
+*   **Joint space narrowing:** The space between the",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided X-ray image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided X-ray image, it is difficult to definitively determine the presence of meniscal tears. X-rays are not the best imaging modality for",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the X-ray image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is a significant reduction or narrowing of the joint space in the knee.
+So the answer is [B] No.",0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the provided X-ray image, it is difficult to definitively diagnose osteoarthritis without a full clinical evaluation and comparison to previous images. However, there are some",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided X-ray image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a standard anteroposterior (AP) view",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the provided image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard anteroposterior (AP) view",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing of the joint space.
+
+Therefore, the answer",0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it is difficult to definitively diagnose osteoarthritis without more information and a radiologist's interpretation. However, there are some features that could suggest",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of the bilateral",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely answer is **(C) No abnormality**.
+
+The image shows a standard anteroposterior (AP) view of",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears to be intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing in the knee joints, which is a common",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided X-ray image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided X-ray image, it is difficult to definitively determine the presence of meniscal tears. X-rays are not the best imaging modality for",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the provided X-ray image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and possible osteophyte formation (bone spurs)",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard X-ray of the knee joint. There are no",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image quality is not ideal, and the structures of the knee",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard X-ray of the knees. There are",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the visible fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space. The joint space appears relatively normal.
+So the answer is [B]",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no obvious structural distortion, blunting, or displaced fragment visible.
+
+Therefore, the answer is",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there are signs of joint space narrowing and osteophyte formation (bone spurs)",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided X-ray image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided X-ray image, it is difficult to definitively determine the presence of meniscal tears. X-rays are not the best imaging modality for",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the X-ray image, the most likely abnormality is **[B] Osteoarthritis**.
+
+Here's why:
+
+*   **Joint Space",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing in the knee joints, which is a common",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of both knees",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears without a more detailed examination and potentially additional imaging. However, I can",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard anteroposterior (AP) view of",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, the joint space appears to be relatively normal. There is no obvious significant reduction or narrowing.
+
+Therefore, the answer is **B)",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),"Based on the image, it appears that there is some evidence of osteoarthritis. Specifically, there is some joint space narrowing and possible osteophyte formation (bone spurs)",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,"Based on the provided image, the pathology is **[B] Normal**.
+
+The image shows a standard anteroposterior (AP) view of the bilateral",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),"Based on the provided image, it is difficult to definitively determine the presence of meniscal tears. The image shows a standard anteroposterior (AP) view",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,"Based on the image, the most likely abnormality is **[C] No abnormality**.
+
+The image shows a standard anteroposterior (AP) view of",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,"Based on the image, the fracture line appears to be **[A] Transverse**.
+
+The fracture line is a relatively straight, horizontal line across the tibia",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No","Based on the image, there is no significant reduction or narrowing of the joint space. The joint space appears relatively normal.
+So the answer is [B]",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No","Based on the provided image, the meniscus appears intact. There is no evidence of structural distortion, blunting, or a displaced fragment.
+
+Therefore, the answer",0.0

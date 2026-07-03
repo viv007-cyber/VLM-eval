@@ -1,0 +1,205 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the body's",0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create pictures of the body's internal structures",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the body's",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create pictures of the body's internal structures",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce a visual representation of the bones and",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No,0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A is correct. The image shows a radiograph of a person's chest.,0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and t",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A is correct. The image shows a radiograph of a person's chest.,0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create pictures of the body's internal structures",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the body's",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the body's",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create pictures of the body's internal structures",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and other",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A is correct. The image shows a radiograph of a person's arm.,0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create pictures of the body's internal structures",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and other",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce detailed images of the body.",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A radiograph is shown in the image.,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,A is correct. The image shows a radiograph of a person's arm.,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes,0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No,0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create pictures of the body's internal structures",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No, this image does not come from an MRI scan. It is a close-up of a person's knee with a visible bone and",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),Yes,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No, this image does not come from an MRI scan. It is a close-up of a person's knee, showing the bone structure",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to produce an image of the bones and joint",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),No,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"A radiograph is shown in the image, which is a type of imaging that uses X-rays to create a visual representation of the bones and",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),No,0.0

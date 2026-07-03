@@ -1,0 +1,154 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+21.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+21.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+11.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+11.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+11.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+26.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+26.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+26.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+23.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+23.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+23.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+27.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+27.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+27.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+10.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+10.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+10.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+5.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+5.png,Xray,Shoulder,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+8.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+8.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+8.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+26.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+26.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+26.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+18.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+18.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+18.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+14.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+14.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+14.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+2.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+2.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+2.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+16.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+16.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+16.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.png,Xray,Hip,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+5.png,Xray,Hip,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+5.png,Xray,Hip,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+24.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+24.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+24.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+9.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+9.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+9.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+27.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+27.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+27.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+20.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+20.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+20.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+4.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+4.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+4.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+8.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+8.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+8.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+29.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+29.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+29.jpg,Xray,Knee,general_anatomy,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+6.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+6.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+6.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+1.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+1.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+1.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+7.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+7.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+7.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+5.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+5.png,Xray,Shoulder,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+8.png,Xray,Shoulder,fractures,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+8.png,Xray,Shoulder,fractures,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+8.png,Xray,Shoulder,fractures,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+6.png,Xray,Shoulder,fractures,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+6.png,Xray,Shoulder,fractures,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+6.png,Xray,Shoulder,fractures,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+1.png,Xray,Shoulder,fractures,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+1.png,Xray,Shoulder,fractures,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+1.png,Xray,Shoulder,fractures,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+7.png,Xray,Shoulder,fractures,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,Shoulder,0.0
+7.png,Xray,Shoulder,fractures,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+7.png,Xray,Shoulder,fractures,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,fractures,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+5.png,Xray,Shoulder,fractures,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+5.png,Xray,Shoulder,fractures,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+4.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+4.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+4.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+2.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+2.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+2.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+6.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+6.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+6.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+1.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+1.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+1.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+7.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+7.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+7.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+3.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+3.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+3.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.png,Xray,Hip,posteroanterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+5.png,Xray,Hip,posteroanterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+5.png,Xray,Hip,posteroanterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,upper,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+6.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+6.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+6.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+5.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+5.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+5.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+4.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+4.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+4.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+7.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+7.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+7.jpg,Xray,Knee,anteroposterior,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m1,Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?,None.,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m2,Does this image show a joint in the upper or lower extremity?,lower,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,anatomy_eval1,m3,Is this image taken of the shoulder joint? (Yes/No),yes,0.0

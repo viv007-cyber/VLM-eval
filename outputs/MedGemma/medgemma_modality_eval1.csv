@@ -1,0 +1,338 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be a standard anteroposterior (AP) view of the shoulder joint.",0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the shoulder.,0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+21.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The presence of a prosthetic shoulder replacement (arthroplasty) is a clear indicator.",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is a chest X-ray.,0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+11.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The bony structures of the shoulder, including the humerus, scapula, and clavicle,",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray of the shoulder.,0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+26.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint. The image shows the clavicle, scapula, and humerus, which are key components of",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the right shoulder. The presence of the ""R"" marking on the image and the overall appearance of the",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+23.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint.",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the right shoulder.",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+27.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The presence of a prosthetic shoulder replacement (shoulder arthroplasty) is a clear indicator.",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be a chest X-ray. The presence of a prosthetic joint in the shoulder and the overall appearance of the bones and lungs",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+10.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be a shoulder X-ray.",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray of the shoulder.,0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+5.png,Xray,Shoulder,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The bony structures visible, including the humerus, scapula, and clavicle, are characteristic",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be a radiograph (X-ray) of a joint, likely a hip or shoulder, based on the bone structure visible",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph.
+So the answer is [A].",0.0
+8.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the hip. The bone structure is clearly visible, and the image is in a standard X-ray format",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body. This",0.0
+26.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint.",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be an X-ray. The presence of a cross table and the overall appearance of the bones are characteristic of an X-",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph.
+So the answer is [A] Radiograph.",0.0
+18.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be a lateral view of the hip joint.",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the hip.,0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body. This",0.0
+14.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray of the hip joint.,0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+2.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray.,0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body. This",0.0
+16.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray.,0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+5.png,Xray,Hip,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knees. The characteristic features of an X-ray include the bony structures of the bones, the joint",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+24.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the knee joints.",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the knees.,0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knees.
+So the answer is [A] Radiograph.",0.0
+9.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knees. The characteristic features of an X-ray include the bony structures of the bones, the joint",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+27.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knees. The characteristic features of an X-ray include the bony structures of the bones, the joint",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+20.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knee. The presence of the metal hardware (likely a plate and screws) indicates a previous surgical intervention",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+4.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the knee joints.",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the knees.,0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knees.
+So the answer is [A] Radiograph.",0.0
+8.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the knee.,0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+29.jpg,Xray,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be a shoulder X-ray.",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray of the chest.,0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+6.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be a shoulder X-ray.",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray.,0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+1.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint.",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the shoulder.,0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+7.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of a chest X-ray.",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the left shoulder joint. The humerus is visible, and the shoulder joint is clearly visible.",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the left shoulder. The presence of hardware (screws) in the shoulder joint is a strong indicator that",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+5.png,Xray,Shoulder,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be a shoulder X-ray.",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No, this image does not appear to be from an MRI scan. It is a standard X-ray image of the right shoulder.",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+8.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of a shoulder.",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The presence of a shoulder prosthesis (likely a hemiarthroplasty or reverse shoulder arthro",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the shoulder. The presence of a prosthetic shoulder joint (implants) is a strong indicator of an X",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+6.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The bony structures visible, including the humerus, scapula, and clavicle, are characteristic",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be a chest X-ray. The presence of the ribs, clavicle, and the overall shape of the chest cavity are",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+1.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint.",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the right shoulder.,0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+7.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the right shoulder.",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The presence of a shoulder prosthesis (likely a reverse shoulder replacement) is a strong indicator.",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray.,0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+5.png,Xray,Shoulder,fractures,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint, showing a hip prosthesis.",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be an X-ray. The presence of a prosthetic leg and the bony structures visible in the image are characteristic of an X",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+4.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the hip.,0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are a type of imaging that uses radiation to create images of the",0.0
+2.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint. The presence of a screw and plate suggests a previous surgery, likely a shoulder replacement or repair.",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be an X-ray. The presence of a metal screw and the overall appearance of the bone structure are characteristic of an X",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body using X",0.0
+6.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the hip.,0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a radiograph.
+So the answer is [A].",0.0
+1.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray.,0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+7.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be a lateral view of the hip joint.",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the hip.,0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body. This",0.0
+3.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint. The bony structures visible, including the humerus, scapula, and clavicle, are characteristic",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be a radiograph (X-ray) of a joint, likely a hip or shoulder, based on the bone structure visible",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph.
+So the answer is [A].",0.0
+5.png,Xray,Hip,posteroanterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be a hip X-ray.",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray.,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body. This",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image appears to be an X-ray.,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body. This",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the hip joint, showing a surgical implant (likely a",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No, this image does not appear to be from an MRI scan. It is a standard X-ray image of a hip.",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint. The presence of a prosthetic component (likely a shoulder replacement) and the overall anatomy of the shoulder",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be an X-ray. The presence of a cross table and the overall appearance of the bones are characteristic of an X-",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are commonly used to visualize bones and other structures within the body.",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, this image appears to be taken of the shoulder joint. The presence of a screw and plate suggests a previous surgery, likely a shoulder replacement or repair.",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be an X-ray. The presence of a metal screw and the overall appearance of the bone structure are characteristic of an X",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to create images of the inside of the body using X",0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knee joints. The characteristic features of an X-ray include the bony structures of the bones, the",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+
+So the answer is [A] Radiograph.",0.0
+6.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the knees.,0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+5.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the knee joints.",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the knees.,0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knees.
+So the answer is [A] Radiograph.",0.0
+4.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knees.",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knees. The characteristic features of an X-ray include the bony structures of the bones, the joint",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+
+So the answer is [A] Radiograph.",0.0
+7.jpg,Xray,Knee,anteroposterior,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),No. This image is an X-ray of the knee.,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee joints.",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the knee joints.",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image appears to be an X-ray of the knees. The presence of the metal markers (likely for alignment) and the overall appearance of",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is a **[A] Radiograph**.
+
+Radiographs (X-rays) are used to visualize bones and other structures within the body. The",0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knee joints. The characteristic features of an X-ray include the bony structures of the bones, the",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It is taken of the knee joint.",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knee joints. The characteristic features of an X-ray include the bony structures of the bones, the",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee joints.
+So the answer is [A] Radiograph.",0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an X-ray of the knee joint.",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+This image is an X-ray of the knee. The characteristic features of an X-ray include the bony structures of the knee joint, such",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a radiograph (X-ray) of the knee.
+So the answer is [A] Radiograph.",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this is a plain radiograph.",0.0

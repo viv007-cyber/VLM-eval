@@ -1,0 +1,240 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+34.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the **knee joint**. The presence of the patella (kneecap) and",0.0
+34.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+34.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+34.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The bony structures and overall shape are characteristic of the knee.",0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The bony structures visible are consistent with the distal femur and proximal tibia.",0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **MRI",0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The bony structures and soft tissues visible are characteristic of the knee.",0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **MRI",0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan, not a plain radiograph (X-ray). The",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) scan of a knee.
+So the answer is B.",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan, not a plain radiograph (X-ray). MRI",0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **MRI",0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan. The image shows soft tissue structures and is not a plain",0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the surrounding soft tissues (",0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **MRI",0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be of the knee joint. The shape and structure of the bone and surrounding tissues are characteristic of the knee.",0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **MRI",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) scan of a knee.
+So the answer is B.",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan. The image shows a cross-sectional view of the knee",0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an MRI of the knee joint.",0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan, not a plain radiograph (X-ray). The",0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the thigh region, likely the quadriceps muscle. The image shows the muscle tissue and",0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **plain radiograph**. The image shows a cross-sectional view of the leg, with bony structures visible.",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Based on the image, it appears to be a reflection of a rounded object, possibly a joint. The shape and the way the light is reflected suggest it could",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image, it appears to be a **[B] MRI** image.
+
+Here's why:
+
+*   **Signal Intensity:** The",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a plain radiograph. The image shows a dark background with a bright, circular shape, which is characteristic of a",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Based on the image, it appears to be a view of the **shoulder joint**. The shape and structure of the bone (likely the humerus) and the",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image appears to be a radiograph.
+
+Therefore, the answer is **[A] Radiograph**.",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) of the knee.
+So the answer is B.",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the surrounding soft tissues are",0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan of the knee. The characteristic features of an MRI include:",0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an image of the knee joint.",0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **MRI",0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint. The presence of the patella (kneecap) and the surrounding structures (like the femur",0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the surrounding soft tissues are",0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is a radiograph.,0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph of the knee.",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the lower leg, specifically the calf region. The image shows the muscles and tendons of",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) scan of a leg. The characteristic signal intensity and contrast are typical of MRI.
+
+Therefore, the answer is",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan, not a plain radiograph (X-ray). The",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the upper arm, specifically the biceps muscle. The image shows the muscle tissue and surrounding",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) scan.
+
+Therefore, the answer is **B**.",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan. The image shows detailed anatomical structures and soft tissue contrast,",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the **knee joint**. The presence of the patella (kneecap) and",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) scan.
+
+Therefore, the answer is **B**.",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan. The presence of a contrast agent (likely gadolinium)",0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint. The prominent bony structures and the overall shape of the joint are characteristic of the knee.",0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan, not a plain radiograph (X-ray). The",0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint. The prominent rounded structure is the knee joint, and the surrounding tissues are consistent with the knee.",0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan of the knee. The image shows the soft tissues and cartilage",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, this image is not taken of the shoulder joint. It appears to be an MRI of the knee joint.",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows an MRI (Magnetic Resonance Imaging) scan of the knee.
+
+Therefore, the answer is **B**.",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No, the image appears to be taken of the knee joint.",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is an MRI (Magnetic Resonance Imaging).
+
+Therefore, the answer is **B**.",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes, this appears to be a plain radiograph.",0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI of the knee joint. The presence of the patella (kneecap) and the",0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes,0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,The image is an MRI (Magnetic Resonance Imaging).,0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+Based on the image, it appears to be an MRI (Magnetic Resonance Imaging) scan, not a plain radiograph (X-ray). The",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"Yes, the image appears to be taken of the shoulder joint.",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),Yes.,0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image is an MRI (Magnetic Resonance Imaging).
+
+Therefore, the answer is **B**.",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Based on the image, it appears to be a **MRI** image, not a plain radiograph.
+
+Here's why:
+
+*   **Image",0.0

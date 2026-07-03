@@ -1,0 +1,63 @@
+[project]
+name = "vlm-proj"
+version = "0.1.0"
+description = "Evaluation of capabilities of VLM's on medical imaging"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "pillow>=10.3.0",
+    "tqdm>=4.66.0",
+    "pyyaml>=6.0.1",
+
+]
+
+[project.optional-dependencies]
+transformers = [
+    "torch>=2.2.0",
+    "transformers>=4.45.0", 
+    "accelerate>=0.30.0",
+    "torchvision>=0.17.0",
+]
+
+qwen = [
+    "vlm-proj[transformers]", 
+    "qwen-vl-utils>=0.0.4",
+]
+
+llava = [
+    "vlm-proj[transformers]",
+    "bitsandbytes>=0.43.0",
+    "protobuf>=4.25.0",
+]
+
+instructblip = [
+    "vlm-proj[transformers]",
+    "sentencepiece>=0.2.0",  
+]
+
+medgemma = [
+    "vlm-proj[transformers]",
+    "transformers>=4.50.0",  
+    "sentencepiece>=0.2.0",
+    "bitsandbytes>=0.43.0",
+]
+
+paligemma = [
+    "vlm-proj[transformers]",
+    "transformers>=4.45.0",
+]
+
+
+all = [
+    "vlm-proj[transformers,qwen, llava,instructblip,medgemma, paligemma]"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vlm_eval"]
+

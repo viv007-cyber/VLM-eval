@@ -1,0 +1,358 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+21.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+11.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+26.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+23.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+27.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+10.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Shoulder,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+8.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",no,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+26.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[C],0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+18.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+14.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+2.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+16.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Hip,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[C],0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",no,0.0
+24.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",no,0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+9.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+27.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",no,0.0
+20.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+4.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+8.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+29.jpg,Xray,Knee,general_anatomy,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+1.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",blunting,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+7.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Shoulder,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+8.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+1.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),no,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+7.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Shoulder,fractures,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+4.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+2.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[C],0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+1.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[C],0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+7.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[C],0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+3.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Hip,posteroanterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",no,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",blunting,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),no,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[C],0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,cross table,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,cross table,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,cross table,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",cross table r,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",cross table r,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Fracture [D] Normal,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+5.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+4.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+7.jpg,Xray,Knee,anteroposterior,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),no,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[C] Normal,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F] Fracture present,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",A,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m1,Is this osteoarthritis? (Yes/No),yes,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m2,Identify the pathology: [A] Fracture [B] Normal,[A] Fracture,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m3,Determine whether the imaging shows occurrences of meniscal tears? (Yes/No),yes,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m4,What abnormality is present: [A] Fracture [B] Osteoarthritis [C] No abnormality ?,[A] Fracture,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m5,Classify the orientation of the visible fracture line: [A] Transverse [B] Oblique [C] Spiral [D] Comminuted (multiple fragments) [E] No fracture present,[F],0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m6,"Examine the articulating joint space visible in this image, is there a significant reduction or narrowing of the joint space? [A] Yes [B] No",[A] Yes [B] No,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,pathology_eval1,m7,"Evaluate the morphology of the meniscus on this view. Does it demonstrate structural distortion, blunting, or a displaced fragment? [A] Yes [B] No",[A] Yes [B] No,0.0

@@ -1,0 +1,399 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+34.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the hip joint, specifically the femoral head articulating with the acetabulum. The presence of the femoral",0.0
+34.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a cross-sectional view of soft tissues with varying shades of gray, which is characteristic of Magnetic Resonance Imaging (MRI).",0.0
+34.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the human body, likely the knee, with detailed visualization of soft tissues (muscles, ligaments, tendons) and",0.0
+34.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained via MRI. Key features visible include the femoral condyles, tibial plateau",0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a knee joint, likely obtained using a technique like CT (Computed Tomography) or possibly a high-",0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+21.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, showing the",0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a high-resolution, detailed view of the knee joint, likely a photograph or a high-quality illustration, not an MRI scan",0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a detailed view of the internal structure of a knee joint, with clear differentiation between bone, cartilage, ligaments, and possibly meniscus. This level of",0.0
+26.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a Magnetic Resonance Imaging (MRI) scan of a knee joint. This is evident from the high contrast between different soft tissues (like",0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, showing the",0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a bone, likely a femur or tibia, with clear visualization of the medullary cavity, cortical bone,",0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of a knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+14.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with its medullary cavity, cortical bone, and",0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a knee joint, likely obtained using a technique like computed tomography (CT) or possibly a high-resolution",0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the knee joint with detailed visualization of soft tissues (like cartilage, ligaments, meniscus) and bone structures. This type",0.0
+9.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).",0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with a distinct medullary cavity and cortical bone.",0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a cross-sectional view of the knee joint with detailed soft tissue and bone structures, which is characteristic of Magnetic Resonance Imaging (MRI).",0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a detailed view of the internal structures of the knee joint, with clear differentiation between bone, cartilage, ligaments, and meniscus. This level of soft",0.0
+28.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). Plain radiographs (X-rays)",0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically highlighting the meniscus. The structures visible, such as the articular cartilage, meniscus",0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a muscle, likely a leg muscle (possibly the gastrocnemius or soleus), with visible muscle",0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+7.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). Plain radiographs (X-rays)",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with its medullary cavity and surrounding cortex. The",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a bone, likely a femur or tibia, with clear visualization of the internal structure, including the medullary",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of a knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+15.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a black and white image with varying shades of gray, which is characteristic of Magnetic Resonance Imaging (MRI), not a plain radiograph",0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, given the",0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a bone, likely a femur or tibia, with clear visualization of the internal structure, including the medullary",0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of a knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+16.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).",0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a sagittal view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). The high contrast between different soft tissues (lig",0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of a body part, likely a knee, with detailed visualization of soft tissues (like cartilage, ligaments, meniscus) and",0.0
+12.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).",0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia. The distinct",0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a knee joint, likely obtained using Magnetic Resonance Imaging (MRI). MRI scans are commonly used to visualize soft",0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a detailed view of the knee joint, specifically the menisci and cartilage, with excellent soft tissue contrast. This level of detail and contrast is characteristic",0.0
+24.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a Magnetic Resonance Imaging (MRI) scan, specifically a sagittal view of the knee joint. This is evident from the high soft tissue",0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a high-resolution, detailed view of the knee joint, likely a photograph or a rendering from a medical illustration or possibly a high",0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+29.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee, likely obtained using Magnetic Resonance Imaging (MRI). Plain radiographs (X-rays) produce",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained using ultrasound or possibly CT or X-ray with specific contrast. MRI",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of a body part, likely a knee, with detailed visualization of soft tissues (like cartilage, ligaments, meniscus) and",0.0
+13.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).",0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-section of the knee joint, specifically the distal femur and proximal tibia. Key structures visible include the femoral condyles,",0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a cross-sectional view of soft tissues with varying shades of gray, which is characteristic of Magnetic Resonance Imaging (MRI).",0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+5.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). Plain radiographs (X-rays)",0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, specifically the distal end of a long bone, likely the femur or tibia, showing the",0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-section of a knee joint, likely obtained using ultrasound or possibly X-ray or CT, but not MRI. MRI",0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+25.png,MRI,Knee,general_anatomy,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). Plain radiographs (X-rays)",0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the tibial plateau and femoral condyles. The structures visible, such as the",0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a sagittal view of the knee joint, likely obtained through an arthroscopic procedure or possibly a high-resolution radiographic technique like micro-",0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a sagittal view of the knee joint, with detailed visualization of the bones (femur, tibia, patella), cartilage, and soft tissues (",0.0
+0007.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a high-resolution view of bone structure, particularly the trabecular pattern within the bone. This level of detail is characteristic of",0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the thigh, likely from an MRI or CT scan. The structures visible include muscle tissue (like the",0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a sagittal view of the lower limb, likely a muscle or tissue dissection, possibly from a medical illustration or anatomical photograph. MRI scans",0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0001.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the leg, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a structure that appears to be a bone, likely a long bone, with a distinct medullary cavity",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be a photograph of a physical object, likely a small, rounded, possibly metallic or reflective item, against a black background.",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, it appears to be a **[B] MRI** (Magnetic Resonance Imaging) scan.
+
+Here's why:
+
+*",0.0
+0037.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a structure with distinct layers and internal details, which is characteristic of a computed tomography (CT) scan or Magnetic Resonance Imaging (MRI",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a close-up of a foot, specifically the area around the big toe joint. The presence of the toenail, skin texture",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a high-resolution, detailed view of a toe, likely a photograph or a digital image captured with a specialized camera or microscope.",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality appears to be **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:**",0.0
+0034.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a detailed view of the skin and underlying structures, with high contrast and resolution. This is characteristic of a high-resolution imaging technique",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a radiograph (X-ray) of the knee joint. The presence of the patella (kneecap) and the",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a sagittal view of a knee joint, likely from an X-ray or possibly a CT scan. The appearance of the bone structures",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[A] Radiograph**.
+
+Here's why:
+
+*   **Appearance:** The image shows",0.0
+0018.png,MRI,Knee,meniscal_tears,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of a bone, likely obtained using imaging techniques like CT (Computed Tomography) or MRI (Magnetic Resonance",0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a long bone, likely the femur or tibia, with a large, deep depression in the center.",0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a black and white photograph of a knee, likely taken with an X-ray machine. MRI scans produce images based on magnetic fields",0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0026.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"Yes. The image shows a black and white representation of bone and soft tissue, which is characteristic of a plain radiograph (X-ray).",0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the hip joint, specifically the femoral head articulating with the acetabulum. The structures visible, such",0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-sectional view of a limb, likely a leg, with detailed visualization of soft tissues (muscle, fat) and bone",0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the knee joint, with detailed visualization of soft tissues like cartilage, ligaments, and menisci, as well as bone",0.0
+0001.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the body, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the thigh, specifically the muscles and bone structure (femur). The shoulder joint involves the humerus",0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a cross-sectional view of soft tissues with varying shades of gray, which is characteristic of Magnetic Resonance Imaging (MRI).",0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a cross-sectional view of the leg, with detailed soft tissue contrast, including muscle, fat, and potentially bone marrow. This type of imaging",0.0
+0034.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the leg, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained via MRI. Key features visible include the femoral condyles, tibial plateau",0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a high-resolution, detailed view of the knee joint, likely obtained through radiography (X-ray) or possibly computed tomography (",0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[A] Radiograph**.
+
+Here's why:
+
+*   **Appearance:** The image shows",0.0
+0021.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),Yes. The image appears to be a plain radiograph (X-ray) of a knee joint. It shows the bones (femur and tibia) and,0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely obtained via MRI. Key features visible include the articular cartilage, meniscus, tibial",0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be a radiograph (X-ray) of a knee joint, likely a weight-bearing view. MRI scans produce images",0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a detailed view of the internal structures of the knee joint, including cartilage, ligaments, and bone marrow. This level of detail and contrast is characteristic",0.0
+0009.png,MRI,Knee,Axial,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a long bone, likely the femur or tibia, with its surrounding soft tissues. The distinct features visible are the bone shaft, peri",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be a grayscale photograph or a digital image, likely taken with a camera or scanner. It shows a close-up view of",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0029.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a high-resolution, detailed view of tissue structures, likely obtained using a modality like MRI or ultrasound, rather than a plain radi",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a long bone, likely the femur or tibia, with a complex fracture pattern. The shoulder joint involves the humerus, scapula",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be an X-ray, specifically a radiograph. The high contrast, bone detail, and soft tissue appearance are characteristic of",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0001.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a detailed view of soft tissues and bone structures, with varying shades of gray. This is characteristic of Magnetic Resonance Imaging (MRI),",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a long bone, likely the femur or tibia, with a metallic implant (possibly a nail or rod) inserted into the medullary",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be a black and white photograph or radiograph, likely an X-ray, showing a limb (possibly a leg) with",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image characteristics, the imaging modality shown is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI",0.0
+0028.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a detailed view of soft tissues and bone structures, with high contrast and resolution, characteristic of Magnetic Resonance Imaging (MRI), not a",0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a magnetic resonance imaging (MRI) scan of the knee joint. The structures visible, such as the menisci, ligaments (like",0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a sagittal view of the knee joint, with detailed visualization of the bones (femur, tibia, patella) and soft tissues (",0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a detailed view of the knee joint, specifically the menisci and cartilage, with excellent soft tissue contrast. This level of detail and contrast is characteristic",0.0
+0010.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a Magnetic Resonance Imaging (MRI) scan of the knee joint. This is evident from the high contrast between different soft tissues (like",0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the patellofemoral joint (where the kneecap articulates",0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"Yes. The image shows a sagittal view of the knee joint, with detailed visualization of the bones (femur, tibia, patella) and soft tissues (",0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"The image shows a detailed view of the knee joint, specifically the patella (kneecap) and surrounding structures. The image has high contrast and shows soft",0.0
+0005.png,MRI,Knee,Sagittal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). Plain radiographs (X-rays)",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of a knee joint, likely from an MRI scan. The structures visible, such as the meniscus, articular",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a cross-sectional view of a material, likely metal, with distinct layers and a textured surface. This appearance is characteristic of a",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0013.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of a material, likely bone or a similar dense substance, with internal structures and varying densities visible. This",0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows the knee joint, specifically the patellofemoral joint (where the kneecap meets the femur). The patella (",0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a high-resolution, detailed view of the knee joint, likely obtained through a technique like arthroscopy or possibly a high-resolution",0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0026.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a detailed view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI). The high contrast between different tissues (bone,",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows the knee joint, specifically the patellofemoral joint (where the kneecap meets the femur). The presence of the",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a black and white radiographic image, likely an X-ray, of a foot. MRI scans typically produce images with much higher contrast",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0025.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a black and white image with a grid pattern superimposed on it. This grid pattern is characteristic of a fluoroscopy image, not a",0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, specifically the distal femur and proximal tibia. The structures visible, such as the femoral",0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image shows a black and white radiographic image, likely an X-ray, of a knee joint. MRI scans typically produce images with different contrast",0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0012.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the knee joint, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m1,Is this image taken of the shoulder joint? (Yes/No),"No.
+
+The image shows a cross-sectional view of the lower leg, specifically the tibia and fibula bones, along with surrounding soft tissues. The shoulder",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m2,Does this image come from an MRI scan? (Yes/No),"No.
+
+The image appears to be a photograph of a dissected human leg, likely for anatomical study or surgical training. The textures, lighting, and visible structures",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m3,Which type of imaging is shown in the image: [A] Radiograph [B] MRI [C]None ?,"Based on the image provided, the imaging modality is **[B] MRI**.
+
+Here's why:
+
+*   **Soft Tissue Contrast:** MRI excels",0.0
+0002.png,MRI,Knee,Coronal,modality_eval1,m4,Is this a plain radiograph? (Yes/No),"No.
+
+The image shows a cross-sectional view of the leg, likely obtained using Magnetic Resonance Imaging (MRI) or Computed Tomography (CT). Plain",0.0

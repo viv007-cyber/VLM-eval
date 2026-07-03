@@ -1,0 +1,8 @@
+{
+  "domain": "anatomy_eval1",
+  "prompts": {
+    "m1": "Which body part is shown in the image: [A] Knee [B] Hip [C] Shoulder?",
+    "m2": "Does this image show a joint in the upper or lower extremity?",
+    "m3": "Is this image taken of the shoulder joint? (Yes/No)"
+  }
+}

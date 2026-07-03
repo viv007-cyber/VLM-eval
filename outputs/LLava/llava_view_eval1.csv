@@ -1,0 +1,256 @@
+image_name,modality,anatomy,ground_truth,domain,prompt_id,prompt_text,model_response,temperature
+21.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the ribcage and the surrounding area.",0.0
+21.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+21.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+21.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+21.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+11.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of the human body.,0.0
+11.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+11.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the Axial plane.,0.0
+11.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+11.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a lateral view of a person's shoulder, which is an anteroposterior (AP) view.",0.0
+26.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the shoulder, which shows the bones and muscles in the shoulder area.",0.0
+26.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+26.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+26.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+26.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),The exact anatomical view of this imaging is [A] Anteroposterior (AP).,0.0
+23.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the spine and ribcage.",0.0
+23.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+23.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+23.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+23.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+27.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the ribcage and the surrounding area.",0.0
+27.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+27.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+27.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+27.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+10.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the chest area.",0.0
+10.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+10.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,[A] Axial,0.0
+10.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+10.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[C] Posteroanterior (PA),0.0
+5.png,Xray,Shoulder,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the shoulder joint.,0.0
+5.png,Xray,Shoulder,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's shoulder.,0.0
+5.png,Xray,Shoulder,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+8.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a bone, which is a cross-sectional view of the bone.",0.0
+8.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+8.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a bone, which is the plane that runs through the center of the body, perpendicular to the sag",0.0
+8.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+8.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),The exact anatomical view of this imaging is [C] Posteroanterior (PA).,0.0
+26.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a bone, specifically the knee joint.",0.0
+26.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+26.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a bone, which is the plane that runs through the center of the body, perpendicular to the sag",0.0
+26.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+26.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+18.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of a human arm.,0.0
+18.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+18.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the coronal plane.,0.0
+18.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+18.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a close-up view of a human arm, specifically focusing on the elbow joint. The elbow joint is located on the front side",0.0
+14.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the knee, which shows the bones and joints in a cross-sectional manner.",0.0
+14.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+14.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a person's leg, which includes the knee and the bone structure.",0.0
+14.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+14.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a close-up view of a person's knee, which is an anteroposterior (AP) view.",0.0
+2.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the hip joint.,0.0
+2.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+2.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of the hip joint.,0.0
+2.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+2.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+16.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a human skeleton, which shows the bones in a cross-sectional manner.",0.0
+16.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+16.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+16.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+16.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a skeletal structure, likely a human leg, with a focus on the knee joint. The view is a lateral view, which",0.0
+5.png,Xray,Hip,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the bone, which shows the bone's interior structure.",0.0
+5.png,Xray,Hip,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.png,Xray,Hip,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's leg.,0.0
+5.png,Xray,Hip,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.png,Xray,Hip,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+24.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of a knee joint.,0.0
+24.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+24.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a knee joint.,0.0
+24.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+24.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+9.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's knee, which shows the inside of the knee joint.",0.0
+9.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+9.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a person's knee.,0.0
+9.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+9.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+27.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the knee joint.,0.0
+27.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+27.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,[A] Axial,0.0
+27.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+27.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+20.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of a knee joint.,0.0
+20.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+20.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a knee joint.,0.0
+20.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+20.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+4.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's knee, which shows the bones and the joint from the side.",0.0
+4.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+4.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a knee, which is the plane that runs through the center of the body, perpendicular to the sag",0.0
+4.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+4.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+8.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of the knee.,0.0
+8.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+8.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,[A] Axial,0.0
+8.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+8.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+29.jpg,Xray,Knee,general_anatomy,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of the knee joint.,0.0
+29.jpg,Xray,Knee,general_anatomy,view_eval1,m2,Is this a sagittal view? (Yes/No),No,0.0
+29.jpg,Xray,Knee,general_anatomy,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a knee joint.,0.0
+29.jpg,Xray,Knee,general_anatomy,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+29.jpg,Xray,Knee,general_anatomy,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+6.png,Xray,Shoulder,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the chest area.",0.0
+6.png,Xray,Shoulder,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,[A] Axial,0.0
+6.png,Xray,Shoulder,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[C] Posteroanterior (PA),0.0
+1.png,Xray,Shoulder,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the shoulder joint.,0.0
+1.png,Xray,Shoulder,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,[A] Axial,0.0
+1.png,Xray,Shoulder,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+7.png,Xray,Shoulder,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the chest area.",0.0
+7.png,Xray,Shoulder,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+7.png,Xray,Shoulder,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,[A] Axial,0.0
+7.png,Xray,Shoulder,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+7.png,Xray,Shoulder,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+5.png,Xray,Shoulder,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the ribcage, which shows the ribs and the vertebrae.",0.0
+5.png,Xray,Shoulder,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+5.png,Xray,Shoulder,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+8.png,Xray,Shoulder,fractures,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the shoulder and the ribcage.",0.0
+8.png,Xray,Shoulder,fractures,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+8.png,Xray,Shoulder,fractures,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the Axial plane.,0.0
+8.png,Xray,Shoulder,fractures,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+8.png,Xray,Shoulder,fractures,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+6.png,Xray,Shoulder,fractures,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the shoulder joint.,0.0
+6.png,Xray,Shoulder,fractures,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,fractures,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a shoulder joint.,0.0
+6.png,Xray,Shoulder,fractures,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+6.png,Xray,Shoulder,fractures,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+1.png,Xray,Shoulder,fractures,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the shoulder and chest area.",0.0
+1.png,Xray,Shoulder,fractures,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,fractures,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the image is the axial plane.,0.0
+1.png,Xray,Shoulder,fractures,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+1.png,Xray,Shoulder,fractures,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+7.png,Xray,Shoulder,fractures,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the shoulder and chest area.",0.0
+7.png,Xray,Shoulder,fractures,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+7.png,Xray,Shoulder,fractures,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+7.png,Xray,Shoulder,fractures,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+7.png,Xray,Shoulder,fractures,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+5.png,Xray,Shoulder,fractures,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the shoulder, which shows the bones and muscles in the shoulder area.",0.0
+5.png,Xray,Shoulder,fractures,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,fractures,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's shoulder.,0.0
+5.png,Xray,Shoulder,fractures,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.png,Xray,Shoulder,fractures,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[C] Posteroanterior (PA),0.0
+4.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's leg, which shows the bones and the muscles in the leg.",0.0
+4.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+4.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's leg.,0.0
+4.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+4.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+2.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the knee, which shows the bones and joints in a cross-sectional manner.",0.0
+2.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+2.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a person's leg, which includes the knee and the bone structure.",0.0
+2.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+2.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a close-up view of a person's knee, specifically focusing on the kneecap and the surrounding bone structure. The",0.0
+6.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of the human body.,0.0
+6.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+6.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of the human body.,0.0
+6.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+6.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a close-up view of a human arm, likely taken from the anteroposterior (AP) perspective. The arm is in a",0.0
+1.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the knee, which shows the bones and joints in a cross-sectional manner.",0.0
+1.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+1.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+1.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+1.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+7.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of a person's knee.,0.0
+7.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+7.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+7.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+7.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+3.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the knee, which shows the bones and joints in a cross-sectional manner.",0.0
+3.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+3.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a person's leg, which includes the knee and the bone structure.",0.0
+3.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+3.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a close-up view of a person's knee, which is an anteroposterior (AP) view.",0.0
+5.png,Xray,Hip,posteroanterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a bone, which is a cross-sectional view of the bone.",0.0
+5.png,Xray,Hip,posteroanterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.png,Xray,Hip,posteroanterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a bone, which is the plane that runs through the center of the body, perpendicular to the sag",0.0
+5.png,Xray,Hip,posteroanterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.png,Xray,Hip,posteroanterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),The exact anatomical view of this imaging is [C] Posteroanterior (PA).,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, specifically focusing on the knee and the surrounding area.",0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's leg.,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+8.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's leg, which shows the bones and joints in a cross-sectional manner.",0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a person's leg.,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+9.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's leg, which shows the bones and the metal rod inserted into the knee.",0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,A is visible in the given imaging.,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+6.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the human body, which is a cross-sectional view.",0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The visible plane in the given imaging is the axial plane.,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+1.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of the human body.,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of the human body.,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.png,Xray,Hip,musculoskeletal_disorders_MSDs,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),"The image shows a close-up view of a human arm, likely taken from the anteroposterior (AP) perspective. The arm is in a",0.0
+6.jpg,Xray,Knee,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the knee joint.,0.0
+6.jpg,Xray,Knee,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+6.jpg,Xray,Knee,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's knee.,0.0
+6.jpg,Xray,Knee,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+6.jpg,Xray,Knee,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+5.jpg,Xray,Knee,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of the knee joint, which shows the bones and the ligaments in the knee area.",0.0
+5.jpg,Xray,Knee,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+5.jpg,Xray,Knee,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"In the given imaging, the axial plane is visible, as it shows the front and back of the knee joint.",0.0
+5.jpg,Xray,Knee,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+5.jpg,Xray,Knee,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+4.jpg,Xray,Knee,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's knee, which shows the bones and joints of the knee from the side.",0.0
+4.jpg,Xray,Knee,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+4.jpg,Xray,Knee,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a person's knee.,0.0
+4.jpg,Xray,Knee,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+4.jpg,Xray,Knee,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+7.jpg,Xray,Knee,anteroposterior,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?","The image is an axial view of a person's knee, which shows the inside of the knee joint.",0.0
+7.jpg,Xray,Knee,anteroposterior,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+7.jpg,Xray,Knee,anteroposterior,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"In the given imaging, the axial plane is visible, as it shows the front of the knee joint.",0.0
+7.jpg,Xray,Knee,anteroposterior,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+7.jpg,Xray,Knee,anteroposterior,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of a knee joint.,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"In the given imaging, the axial plane is visible, as it shows the knee joint from the front.",0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+3.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The given imaging is an axial view of a knee joint.,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a person's knee.,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+6.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of a knee joint.,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a sagittal plane view of a knee joint.,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+9.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image shows a coronal view of a knee joint.,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,The image shows a coronal plane view of a knee joint.,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+1.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m1,"What view of the given imaging is this: Axial, Coronal, Sagittal?",The image is an axial view of the knee joint.,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m2,Is this a sagittal view? (Yes/No),Yes,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m3,Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?,"The image shows a coronal plane view of a knee, which is the plane that runs through the center of the body, perpendicular to the sag",0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m4,Is the image taken in an anteroposterior view? (Yes/No),Yes,0.0
+2.jpg,Xray,Knee,knee_osteoarthritis,view_eval1,m5,Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA),[A] Anteroposterior (AP),0.0

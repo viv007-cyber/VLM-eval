@@ -1,0 +1,11 @@
+{
+  "domain": "view_eval1",
+  "prompts": {
+    "m1": "What view of the given imaging is this: Axial, Coronal, Sagittal?",
+    "m2": "Is this a sagittal view? (Yes/No)",
+    "m3": "Which plane is visible in the given imaging: [A] Axial [B] Coronal [C] Sagittal?",
+    "m4": "Is the image taken in an anteroposterior view? (Yes/No)",
+    "m5": "Determine the exact anatomical view of this imaging: [A] Anteroposterior (AP) [B] Lateral [C] Posteroanterior (PA)"
+   
+  }
+}
